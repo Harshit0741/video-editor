@@ -50,7 +50,7 @@ $ npm run dev
 
 ## 🎥 Demo Video
 
-👉 Watch the full walkthrough here: [Google Drive Demo Video](https://drive.google.com/your-link)
+👉 Watch the full walkthrough here: [Google Drive Demo Video](https://drive.google.com/file/d/1GqMxDRe5QwlOl4IPX32ZFe8QzoUl3zch/view?usp=sharing)
 
 This video includes:
 - Interface walkthrough
